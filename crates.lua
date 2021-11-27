@@ -36,7 +36,7 @@ local items = {
   {"Baseball Bat", "melee", 1, "weapon_ttt_bat", "Summer Collection"},
   {"Shit", "prefix", 1, "weapon_ttt_bat", "Summer Collection"},
   {"Sexy", "prefix", 4, "", "Alpha Collection"},
-  {"Nigga", "prefix", 3, "", "Alpha Collection"},
+  {"Oop", "prefix", 3, "", "Alpha Collection"},
   {"Among us", "prefix", 5, "", "Alpha Collection"},
   {"Imposter", "prefix", 2, "", "Alpha Collection"}
 }
