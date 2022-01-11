@@ -19,6 +19,7 @@ function endround()
       elseif rarity >= 6 then
         print("You have obtained a rare item, it is a " .. rarities[rarity] .. " " .. prefix[rarity][ran] .. " " .. wep[weps] .."!")
       end
+      rarity = 1
     end
   end
   if chance == 1 then
