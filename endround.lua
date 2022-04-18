@@ -12,9 +12,9 @@ end
 local we = math.random(#w)
 local pe = math.random(#p[rar])
 if rar == 6 then
-  print("Congrats! You have obtained an " .. r[rar] .. " " .. p[pe] .. " " .. w[we] "!")
+  print("You have dropped an " .. r[rar] .. " " .. p[rar][pe] .. " " .. w[we] .."!")
 else
-  print("Congrats! You have obtained a " .. r[rar] .. " " .. p[pe] .. " " .. w[we] "!")
+  print("You have dropped a " .. r[rar] .. " " .. p[rar][pe] .. " " .. w[we] .. "!")
 end
 if rar > 5 then
   print("This is a rare item!")
